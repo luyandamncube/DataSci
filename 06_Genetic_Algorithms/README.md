@@ -10,4 +10,4 @@
 # Resources 
 
 * [Intro to Genetic Algorithms](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
-* [Genetic Programming](https://www.youtube.com/watch?v=dSofAXnnFrY)
+* [Gamma Ray Classifier](https://www.youtube.com/watch?v=dSofAXnnFrY)
