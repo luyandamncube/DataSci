@@ -7,3 +7,9 @@ Decision Trees are a class of very powerful Machine Learning model cable of achi
 </p>
 
 Read [this](https://towardsdatascience.com/a-guide-to-decision-trees-for-machine-learning-and-data-science-fe2607241956) for a better understanding.
+
+# Resources
+
+* [Build a Gender Classifier](https://www.youtube.com/watch?v=T5pRlIbr6gg)
+* [Regression Tress, Clearly Explained](https://www.youtube.com/watch?v=g9c66TUylZ4)
+
