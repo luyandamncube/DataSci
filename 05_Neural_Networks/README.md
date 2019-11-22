@@ -5,7 +5,7 @@
 * Deep learning, is a powerful set of techniques for learning in neural networks
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1199/1*N8UXaiUKWurFLdmEhEHiWg.jpegg"/>
+  <img src="https://miro.medium.com/max/1199/1*N8UXaiUKWurFLdmEhEHiWg.jpeg"/>
 </p>
 
 # Resources
