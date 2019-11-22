@@ -11,7 +11,7 @@
 
 * [What is Tokenization?](https://www.youtube.com/watch?v=vyyTpL8QKgc)
 * [Twitter Sentiment Analysis](https://www.youtube.com/watch?v=o_OZdbCzHUA)
-* [Sentiment Analysis - Deep Learning] (https://www.youtube.com/watch?v=si8zZHkufRY&t=8s)
+* [Sentiment Analysis - Deep Learning](https://www.youtube.com/watch?v=si8zZHkufRY&t=8s)
 
 
 
